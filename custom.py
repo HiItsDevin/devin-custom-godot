@@ -2,9 +2,9 @@
 
 OBJPREFIX = "emmerson-"
 PROGPREFIX = "emmerson-"
-LIBPREFIX = "emmerson-"
-SHLIBPREFIX = "emmerson-"
-optimize = "size"
+optimize = "speed"
 use_llvm = "yes"
 t = "release_debug"
 tools = "yes"
+extra_suffix = "emmerson"
+module_arkit_enabled = "no"
