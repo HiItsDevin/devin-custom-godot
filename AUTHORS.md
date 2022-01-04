@@ -1,3 +1,12 @@
+# Devin's Custom Godot 
+
+This engine was forked from the 3.4.2 branch of godotengine/godot, thank you to the amazing people who made this engine possible!
+
+## Addons used and their authors
+
+- [Godot Voxel Tools](https://github.com/Zylann/godot_voxel) by [Zylann](https://github.com/Zylann)
+    - Copyright (c) 2016-2021 Marc Gilleron
+
 # Godot Engine authors
 
 Godot Engine is developed by a community of voluntary contributors who

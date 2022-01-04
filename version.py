@@ -1,5 +1,5 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "devin-custom-godot"
+name = "Devin's Custom Godot Engine"
 major = 3
 minor = 4
 patch = 2

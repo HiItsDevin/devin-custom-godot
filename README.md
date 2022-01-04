@@ -1,3 +1,14 @@
+# Devin's Custom Godot
+
+This is just a custom Godot fork of 3.4.2 with some addons being added in as I mess around with it more.
+
+## Addons used
+
+- [Godot Voxel Tools](https://github.com/Zylann/godot_voxel) by [Zylann](https://github.com/Zylann)
+    - Copyright (c) 2016-2021 Marc Gilleron
+
+Original Readme:
+
 # Godot Engine
 
 <p align="center">
