@@ -163,9 +163,9 @@ def configure(env):
     env["ARCOM"] = "${TEMPFILE(ARCOM_POSIX)}"
 
     # All intermediate files are just LLVM bitcode.
-    env["OBJPREFIX"] = "devin-custom-"
+    env["OBJPREFIX"] = "emmerson-"
     env["OBJSUFFIX"] = ".bc"
-    env["PROGPREFIX"] = "devin-custom-"
+    env["PROGPREFIX"] = "emmerson-"
     # Program() output consists of multiple files, so specify suffixes manually at builder.
     env["PROGSUFFIX"] = ""
     env["LIBPREFIX"] = "lib"

@@ -5,9 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>Devin's Custom Godot</string>
+	<string>Emmerson</string>
 	<key>CFBundleName</key>
-	<string>Devin's Custom Godot</string>
+	<string>Emmerson</string>
 	<key>CFBundleGetInfoString</key>
 	<string>(c) 2007-2021 Juan Linietsky, Ariel Manzur &amp; Godot Engine contributors</string>
 	<key>CFBundleIconFile</key>

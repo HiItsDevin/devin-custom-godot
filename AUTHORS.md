@@ -1,4 +1,4 @@
-# Devin's Custom Godot 
+# Emmerson
 
 This engine was forked from the 3.4.2 branch of godotengine/godot, thank you to the amazing people who made this engine possible!
 

@@ -1,8 +1,8 @@
-#define MyAppName "Devin's Custom Godot Engine"
+#define MyAppName "Emmerson Engine"
 #define MyAppVersion "3.4.2"
 #define MyAppPublisher "Godot Engine contributors"
 #define MyAppURL "https://godotengine.org/"
-#define MyAppExeName "devins-custom-godot.exe"
+#define MyAppExeName "emmerson.exe"
 
 [Setup]
 AppId={{60D07AAA-400E-40F5-B073-A796C34D9D78}

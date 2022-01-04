@@ -1,9 +1,9 @@
 # custom.py
 
-OBJPREFIX = "devins-custom-"
-PROGPREFIX = "devins-custom-"
-LIBPREFIX = "devins-custom-"
-SHLIBPREFIX = "devins-custom-"
+OBJPREFIX = "emmerson-"
+PROGPREFIX = "emmerson-"
+LIBPREFIX = "emmerson-"
+SHLIBPREFIX = "emmerson-"
 optimize = "size"
 use_llvm = "yes"
 t = "release_debug"
