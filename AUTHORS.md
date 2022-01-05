@@ -7,6 +7,9 @@ This engine was forked from the 3.4.2 branch of godotengine/godot, thank you to 
 - [Godot Voxel Tools](https://github.com/Zylann/godot_voxel) by [Zylann](https://github.com/Zylann)
     - Copyright (c) 2016-2021 Marc Gilleron
 
+- [Texture Packer](https://github.com/Relintai/texture_packer) by [Relintai](https://github.com/Relintai)
+    - Copyright (c) 2019-2021 Péter Magyar
+
 # Godot Engine authors
 
 Godot Engine is developed by a community of voluntary contributors who
