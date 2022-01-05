@@ -333,7 +333,7 @@ Ref<Theme> create_editor_theme(const Ref<Theme> p_theme) {
 		preset_base_color = Color(0.24, 0.24, 0.24);
 		preset_contrast = 0.2;
 	} else if (preset == "Light") {
-		preset_accent_color = Color(0.13, 0.44, 1.0);
+		preset_accent_color = Color(0.00, 0.65, 0.41);
 		preset_base_color = Color(1, 1, 1);
 		preset_contrast = 0.08;
 	} else if (preset == "Solarized (Dark)") {
