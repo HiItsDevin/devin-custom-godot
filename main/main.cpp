@@ -1352,7 +1352,7 @@ Error Main::setup2(Thread::ID p_main_tid_override) {
 
 	MAIN_PRINT("Main: Load Boot Image");
 
-	Color clear = GLOBAL_DEF("rendering/environment/default_clear_color", Color(0.3, 0.3, 0.3));
+	Color clear = GLOBAL_DEF("rendering/environment/default_clear_color", Color(1.0, 1.0, 1.0));
 	VisualServer::get_singleton()->set_default_clear_color(clear);
 
 	if (show_logo) { //boot logo!
