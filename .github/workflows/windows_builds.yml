@@ -1,11 +1,15 @@
 name: 🏁 Windows Builds
-on: [push, pull_request]
+on: 
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 */6 * * *" #cron is going to make me an unhinged madman
 
 # Global Settings
 # SCONS_CACHE for windows must be set in the build environment
 env:
   GODOT_BASE_BRANCH: 3.4
-  SCONSFLAGS: verbose=yes warnings=all werror=yes debug_symbols=no
+  SCONSFLAGS: verbose=yes warnings=all werror=yes debug_symbols=no profile=custom.py
   SCONS_CACHE_MSVC_CONFIG: true
 
 concurrency:
@@ -25,7 +29,7 @@ jobs:
             cache-name: windows-editor
             target: release_debug
             tools: true
-            bin: "./bin/godot.windows.opt.tools.64.exe"
+            bin: "./bin/godot.windows.tools.64.emmerson.exe"
 
           - name: Template (target=release, tools=no)
             cache-name: windows-template
