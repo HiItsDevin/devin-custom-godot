@@ -3,7 +3,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "0 */6 * * *" #cron is going to make me an unhinged madman
+    - cron: "0 */12 * * *" #cron is going to make me an unhinged madman
 
 # Global Settings
 # SCONS_CACHE for windows must be set in the build environment
