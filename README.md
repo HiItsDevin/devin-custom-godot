@@ -1,5 +1,7 @@
 # Emmerson
 
+# Currently on Hiatus as I focus on other things
+
 This is just a custom Godot fork of 3.4.2 with some addons being added in as I mess around with it more.
 
 ## Addons used
